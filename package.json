@@ -1,0 +1,16 @@
+{
+  "name": "mithril-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack src/index.js bin/app.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^1.1.1",
+    "mithril.bindings": "0.0.5",
+    "webpack": "^2.4.1"
+  }
+}
